@@ -42,4 +42,4 @@ Blog ： [http://blog.csdn.net/shinelw](http://blog.csdn.net/shinelw)
 
 接下来的学习中，我会结合Android源码中使用到相关设计模式进行分析。
 
-> 持续更新~希望自己可以坚持不懈学习下去。
+> 持续更新~~希望自己可以坚持不懈学习下去。
