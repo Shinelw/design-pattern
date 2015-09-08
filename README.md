@@ -1,6 +1,6 @@
 # 设计模式学习
 ---
-Author ： *Shinelw*
+Author ：  [Shinelw](https://github.com/Shinelw)
 
 Create on *2015.9.2*
 
